@@ -1,0 +1,5 @@
+git init - to initialise directory
+git add <file name> or <.> - for all
+git commit - to add changes to the directory - <-m> - to add message
+git status - to track wbats going on
+git restore <file name> to restore whats been change to selected file
